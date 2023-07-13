@@ -7,11 +7,11 @@ const App = () => {
   let [selectOption, setSelectOption] = useState("");
 
   function updateSelectOption1() {
-    setSelectOption("option 1");
+    setSelectOption("Option 1");
   }
 
   function updateSelectOption2() {
-    setSelectOption("option 2");
+    setSelectOption("Option 2");
   }
 
   return (
